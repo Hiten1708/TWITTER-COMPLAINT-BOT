@@ -4,5 +4,5 @@ This bot will check internet speed in "Speedtest by Ookla" and it will post a co
 See below for preview
 
 <img src="twitter.gif" 
-         height="200"
-         width="344"/>
+         height="300"
+         width="516"/>
