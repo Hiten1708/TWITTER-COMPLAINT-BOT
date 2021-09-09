@@ -3,6 +3,6 @@ This bot will check internet speed in "Speedtest by Ookla" and it will post a co
 
 See below for preview
 
-<h1>Hey! I'm Hiten <img src="twitter.gif" 
+<img src="twitter.gif" 
          height="200"
-         width="344"/></h1>
+         width="344"/>
