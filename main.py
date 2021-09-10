@@ -6,8 +6,8 @@ import time
 PROMISED_DOWN = 150
 PROMISED_UP = 10
 CHROME_DRIVER_PATH = "/Users/hitenpatel/Driver/chromedriver"
-TWITTER_EMAIL = "hitenpatel1708@gmail.com"
-TWITTER_PASS = "h1t3npatel"
+TWITTER_EMAIL = ""
+TWITTER_PASS = ""
 spd_test_site = "https://www.speedtest.net"
 twr_site = "https://twitter.com/HitenPatel1708"
 
